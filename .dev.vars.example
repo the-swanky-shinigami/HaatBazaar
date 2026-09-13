@@ -1,0 +1,3 @@
+ADMIN_SECRET_KEY=haatbazaar_dev_secret_key_123
+JWT_SECRET=haatbazaar_dev_jwt_secret_xyz789
+ADMIN_UPI_VPA=haatbazaar@upi
